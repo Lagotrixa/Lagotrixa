@@ -6,7 +6,6 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">A passionate developer of smart contracts</h3>
 
 - 👀 I’m interested in Blockchain
-- 📝 I regularly write articles on [https://t.me/PhyFin](https://t.me/PhyFin)
 
 - 📫 How to reach me **lagotrixa@gmail.com**
 - 📫 tg: **@lagotrixa**
